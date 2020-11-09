@@ -1,6 +1,6 @@
 # custom-post-grid
 
-## This plugin modifies the default behaviour from Diplay Posts plugin.
+## This plugin modifies the default behaviour from Display Posts plugin.
 
 These new default settings show the Thumbnail along with the post/page title in a grid with no excerpt
 
